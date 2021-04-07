@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd9a6"],{"81a8":function(e,r,a){"use strict";a.r(r);var i=a("7a23"),c={class:"video"},n=Object(i["m"])("iframe",{src:"//player.bilibili.com/player.html?aid=801694633&bvid=BV1ky4y1E7zQ&cid=298008718&page=1",scrolling:"no",border:"0",frameborder:"no",framespacing:"0",allowfullscreen:"true"}," ",-1);function d(e,r,a,d,o,l){return Object(i["D"])(),Object(i["i"])("div",c,[n])}var o={};o.render=d;r["default"]=o}}]);
-//# sourceMappingURL=chunk-2d0dd9a6.760d9c6b.js.map
